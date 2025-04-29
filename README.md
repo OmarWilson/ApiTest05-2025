@@ -32,7 +32,7 @@ git clone https://github.com/OmarWilson/ApiTest05-2025.git
 
 2. **Crear una base de Datos MySQL**
 
-Se recomienda usar un user root, se ha incluido el archivo .int en el repositorio en donde se encuentra la configuracion de conexion.
+Se recomienda usar un user root, se ha incluido el archivo .env en el repositorio en donde se encuentra la configuracion de conexion.
 Usar el siguiente MySQL:
 
 
